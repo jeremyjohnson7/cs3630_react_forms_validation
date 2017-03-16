@@ -1,0 +1,17 @@
+.field {
+    padding: 0.5em;
+    text-align: left;
+}
+
+label {
+    padding-right: 1em;
+}
+
+.invalid {
+    color: red;
+    padding-left: 1em;
+}
+
+.hidden {
+    visibility: hidden;
+}
